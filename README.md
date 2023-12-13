@@ -1,4 +1,4 @@
-# tutorial
+# Tutorial
 Thanks for visiting my GitHub Account!
 
 ## Live Demo
